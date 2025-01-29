@@ -1,0 +1,284 @@
+{
+  "restaurants": [
+    {
+      "name": "Alpino",
+      "chef": { "first": "Colin", "last": "Campbell" },
+      "cuisine": {
+        "food": "Alpine",
+        "drinks": "Wine-focused"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 1, "wins": 0, "losses": 1 },
+      "image": "https://static.wixstatic.com/media/27d2ec_120c4c8097354e9f91c219d838fc7c16~mv2.png/v1/fill/w_1920,h_1131,al_c,q_95,enc_avif,quality_auto/27d2ec_120c4c8097354e9f91c219d838fc7c16~mv2.png",
+      "link": {
+        "website": "https://www.alpinodetroit.com/",
+        "instagram": "https://www.instagram.com/alpinodetroit/",
+        "facebook": "https://www.facebook.com/Alpinodetroit/"
+      },
+      "location": {
+        "street": "1426 Bagley St",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48216,
+        "mapLocation": "https://www.google.com/maps/place/Alpino+Detroit/@42.3299411,-83.0676903,16z/data=!3m1!4b1!4m6!3m5!1s0x883b2d76d011172f:0x1924e96af5fd38b9!8m2!3d42.3299411!4d-83.06511!16s%2Fg%2F11s48x5qh9?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D",
+        "neighborhood": "Corktown"
+      },
+      "favDish": "Piedmontese Ragu",
+      "favDrink": "Orange wine on menu",
+      "timesVisited": 3,
+      "funFact": "Lady of the House used to be in this space."
+    },
+    {
+      "name": "Bar Pigalle",
+      "chef": { "first": "Norman", "last": "Valenti" },
+      "cuisine": {
+        "food": "French",
+        "drinks": "Full menu"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://images.squarespace-cdn.com/content/v1/65cfbb3c98696e51f9e8bc30/a5d480d2-3db2-4187-816e-c5edf95a4d27/IMG_7889.jpg?format=2500w",
+      "link": {
+        "website": "https://www.barpigalle.com/",
+        "instagram": "http://instagram.com/barpigalle",
+        "facebook": "http://facebook.com/barpigalledetroit"
+      },
+      "location": {
+        "street": "2915 John R St",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48201,
+        "mapLocation": "https://www.google.com/maps/place/bar+pigalle/data=!4m2!3m1!1s0x8824d300d576b91f:0x980f5d28dd92ff63?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Brush Park"
+      },
+      "favDish": "Burger, Fries and the House salad",
+      "favDrink": "Last Word",
+      "timesVisited": 9,
+      "funFact": "Neighborhood spot. Bar is the best seat in the house, and the only place you can order the burger."
+    },
+    {
+      "name": "Babo",
+      "chef": { "first": null, "last": null },
+      "cuisine": {
+        "food": "Farm-to-Table",
+        "drinks": "Full menu"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMjOLXiF6qaQY1qzgwz3CyZFhwHFJzWqiInM_W0=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.babodetroit.com/",
+        "instagram": "https://www.instagram.com/babo_detroit/",
+        "facebook": "https://www.facebook.com/pages/category/Diner/Babo-Detroit-360437711228947/"
+      },
+      "location": {
+        "street": "15 E Kirby St, Suite 115",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48202,
+        "mapLocation": "https://www.google.com/maps/place/Babo/@42.3605921,-83.0690796,17z/data=!3m1!4b1!4m6!3m5!1s0x8824d31835166cb5:0x3f502f7f52cf84eb!8m2!3d42.3605921!4d-83.0664993!16s%2Fg%2F11hzqhdx9b?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D",
+        "neighborhood": "Arts District"
+      },
+      "favDish": "Harvest bowl",
+      "favDrink": "Espresso martini",
+      "timesVisited": 5,
+      "funFact": "'Babo' is slang for 'dad' in Albanian"
+    },
+    {
+      "name": "Baobab Fare",
+      "chef": { "first": "Hamissi", "last": "Mamba" },
+      "cuisine": {
+        "food": "East African",
+        "drinks": "NA only"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 3, "wins": 0, "losses": 3 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOj6NuvieUU4mSgfzuQAGX-Xl0vSZoUJE_f26DK=s1360-w1360-h1020",
+      "link": {
+        "website": "https://baobabfare.com/",
+        "instagram": "https://www.instagram.com/baobabfare",
+        "facebook": "https://www.facebook.com/baobabfare/"
+      },
+      "location": {
+        "street": "6568 Woodward Ave, Suite 100",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48202,
+        "mapLocation": "https://www.google.com/maps/place/Baobab+Fare/@42.3605921,-83.0690796,17z/data=!4m6!3m5!1s0x8824d3797b4f291b:0x40cf51bcd9649592!8m2!3d42.3701364!4d-83.0729689!16s%2Fg%2F11j9hb0hz3?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D",
+        "neighborhood": "New Center"
+      },
+      "favDish": "Mboga",
+      "favDrink": "Ginger tea",
+      "timesVisited": 2,
+      "funFact": "The owners fled Burundi a decade ago and are an inspiration to other refugees in the city."
+    },
+    {
+      "name": "Freya",
+      "chef": { "first": "Hamissi", "last": "Mamba" },
+      "cuisine": {
+        "food": "Coursed Farm-to-Table",
+        "drinks": "Full menu, Rotates regularly"
+      },
+      "costLevel": "$$$",
+      "jamesBeard": { "nominations": 2, "wins": 0, "losses": 2 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMOOt0q83itGKeUPtmNYXjwMQFtDSwB_4NJ-uWW=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.freyadetroit.com/",
+        "instagram": "https://www.instagram.com/freyadetroit/",
+        "facebook": "http://facebook.com/FreyaDetroit"
+      },
+      "location": {
+        "street": "2929 E Grand Blvd",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48202,
+        "mapLocation": "https://www.google.com/maps/place/Freya/@42.3721692,-83.0695797,17z/data=!3m1!4b1!4m6!3m5!1s0x8824d33f1dac9bfb:0xbacfa182ac4d8bd7!8m2!3d42.3721692!4d-83.0669994!16s%2Fg%2F11rhbxb93h?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D",
+        "neighborhood": "New Center"
+      },
+      "favDish": "Tasting menu",
+      "favDrink": "Wine pairing",
+      "timesVisited": 3,
+      "funFact": "The restaurant provides reading glasses and a record menu for guests to choose music."
+    },
+    {
+      "name": "Lady of the House",
+      "chef": { "first": "Kate", "last": "Williams" },
+      "cuisine": {
+        "food": "Farm-to-Table",
+        "drinks": "Full menu"
+      },
+      "costLevel": "$$$",
+      "jamesBeard": { "nominations": 2, "wins": 0, "losses": 2 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMiH5e4Zdg2cvRexuKb0WU1jtXSxRVT8HnyQ3oY=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.ladyofthehousedetroit.com/",
+        "instagram": "https://www.instagram.com/ladyofthehousedetroit/",
+        "facebook": "https://www.facebook.com/ladyofthehousedetroit"
+      },
+      "location": {
+        "street": "4884 Grand River Avenue",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48208,
+        "mapLocation": "https://www.google.com/maps/place/Lady+of+the+House/@42.3487403,-83.088434,17z/data=!3m1!4b1!4m6!3m5!1s0x883b2d45ba83646d:0x8d1d84d31ecccb06!8m2!3d42.3487403!4d-83.088434!16s%2Fg%2F11g6yqsjgs?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D",
+        "neighborhood": "Core City"
+      },
+      "favDish": "Carrot steak",
+      "favDrink": "Kathy With a K",
+      "timesVisited": 1,
+      "funFact": "Ryan Gosling's face makes an appearance on the seat of a stool that used to be in the ladies bathroom at the old location."
+    },
+    {
+      "name": "Mabel Gray",
+      "chef": { "first": "James", "last": "Rigato" },
+      "cuisine": {
+        "food": "Seasonal",
+        "drinks": "Full menu, Rotates regularly"
+      },
+      "costLevel": "$$$",
+      "jamesBeard": { "nominations": 4, "wins": 0, "losses": 4 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOU8-RfXapPTjA1VpyJBeBW0qOdYDPddnpPfhuI=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.mabelgraykitchen.com/",
+        "instagram": "https://www.instagram.com/mabelgraykitchen/",
+        "facebook": "https://www.facebook.com/mabelgrayrestaurant/"
+      },
+      "location": {
+        "street": "23825 John R Rd",
+        "city": "Hazel Park",
+        "state": "Michigan",
+        "postcode": 48030,
+        "mapLocation": "https://www.google.com/maps/place/mabel+gray+detroit/data=!4m2!3m1!1s0x8824cfb6ea48920f:0x466659d7ac947de4?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Hazel Park"
+      },
+      "favDish": "Tasting menu",
+      "favDrink": "Wine pairing",
+      "timesVisited": 15,
+      "funFact": "Chef loves dogs and Patrick Swayze."
+    },
+    {
+      "name": "Norm's Diner",
+      "chef": { "first": "Elise", "last": "Gallant" },
+      "cuisine": {
+        "food": "Breakfast & Lunch",
+        "drinks": "NA only"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPN7s4PPspjcLOFx0lI0Wc2mD4uqH5DaspR_7yB=s1360-w1360-h1020",
+      "link": {
+        "website": "https://normsdiner.com/",
+        "instagram": "http://instagram.com/normsdinerlovesyou",
+        "facebook": null
+      },
+      "location": {
+        "street": "8029 Agnes St",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48214,
+        "mapLocation": "https://www.google.com/maps/place/Norm's+Diner/@42.3552499,-82.9994955,17z/data=!3m1!4b1!4m6!3m5!1s0x8824d3ef29fd59a1:0x640b36b1ff0bdc79!8m2!3d42.3552499!4d-82.9969152!16s%2Fg%2F11y3wkjpkr?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D",
+        "neighborhood": "West Village"
+      },
+      "favDish": "Breakfast potatoes",
+      "favDrink": "coffee",
+      "timesVisited": 1,
+      "funFact": "The identity of Norm is a secret."
+    },
+    {
+      "name": "Selden Standard",
+      "chef": { "first": "Elise", "last": "Gallant" },
+      "cuisine": {
+        "food": "Farm-to-Table",
+        "drinks": "Full menu, Rotates regularly"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 9, "wins": 0, "losses": 9 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOC-ABrnIsAZvZ2dUNsO1J66YFGiJOp9Xb9NUQX=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.seldenstandard.com/",
+        "instagram": "https://www.instagram.com/seldenstandard/",
+        "facebook": "https://www.facebook.com/seldenstandard/"
+      },
+      "location": {
+        "street": "3921 2nd Ave",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48201,
+        "mapLocation": "https://www.google.com/maps/place/Selden+Standard/@42.3478001,-83.0675981,16z/data=!3m1!4b1!4m6!3m5!1s0x8824d2b1120abc99:0x4facb71cba4a5a74!8m2!3d42.3478001!4d-83.0650178!16s%2Fg%2F11btm69ppc?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D",
+        "neighborhood": "Midtown"
+      },
+      "favDish": "Everything",
+      "favDrink": "Buddy System",
+      "timesVisited": 8,
+      "funFact": "I had my 40th birthday dinner in the back garden."
+    },
+    {
+      "name": "Supergeil",
+      "chef": { "first": "Brendan", "last": "McCall" },
+      "cuisine": {
+        "food": "Eastern European",
+        "drinks": "Full menu, Rotates regularly"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipN361tz5toYNk-GWrFAnFm0nlBS_QplBBzxKHxp=s1360-w1360-h1020",
+      "link": {
+        "website": "https://supergeildetroit.com/",
+        "instagram": "https://www.instagram.com/supergeildetroit/",
+        "facebook": "https://www.facebook.com/seldenstandard/"
+      },
+      "location": {
+        "street": "2442 Michigan Ave",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48216,
+        "mapLocation": "https://www.google.com/maps/place/Supergeil/@42.3315827,-83.0826912,17z/data=!3m1!4b1!4m6!3m5!1s0x883b33408f08d201:0x23a6829cdb63d4bb!8m2!3d42.3315827!4d-83.0801109!16s%2Fg%2F11rsb0138b?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D",
+        "neighborhood": "Corktown"
+      },
+      "favDish": "Deviled eggs and fries",
+      "favDrink": "Espresso martini",
+      "timesVisited": 7,
+      "funFact": "Dog friendly patio."
+    }
+  ]
+}
