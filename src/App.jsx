@@ -6,7 +6,7 @@ const App = () => {
   console.log(data)
   return (
     <div className="App">
-      <h1>Favorite Detroit Restaurants</h1>
+      <h1>Top 25</h1>
       {data.restaurants.map((restaurant) => (
         <Restaurant />
       ))}
