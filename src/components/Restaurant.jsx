@@ -3,15 +3,18 @@ const Restaurant = (props) => {
   return (
     <div>
       <img src={props.img} />
-      <h1>{props.name}</h1>
+      <a href={props.link}>
+        <h1>{props.name}</h1>
+      </a>
       <h3>
         Chef: {props.chefFirst} {props.chefLast}
       </h3>
       <h4>
-        Cuisine | Food: {props.cuisine} Drinks: {props.drinks}
+        Cuisine: {props.cuisine} | Drink menu: {props.drinks}
       </h4>
       <h4>What I always order: {props.favDish}</h4>
       <h4>And to wash it down: {props.favDrink}</h4>
+      <h4>Random fact: {props.funFact}</h4>
     </div>
   )
 }

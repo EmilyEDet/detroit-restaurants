@@ -8,12 +8,14 @@ const Main = (props) => {
         <Restaurant
           img={restaurant.image}
           name={restaurant.name}
+          link={restaurant.link.website}
           chefFirst={restaurant.chef.first}
           chefLast={restaurant.chef.last}
           cuisine={restaurant.cuisine.food}
           drinks={restaurant.cuisine.drinks}
           favDish={restaurant.favDish}
           favDrink={restaurant.favDrink}
+          funFact={restaurant.funFact}
         />
       ))}
     </main>
