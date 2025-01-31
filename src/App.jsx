@@ -1,15 +1,16 @@
 import './App.css'
 import data from './data.json'
-import Restaurant from './components/Restaurant.jsx'
+import Header from './components/Header.jsx'
+import Footer from './components/Footer.jsx'
+import Main from './components/Main.jsx'
 
 const App = () => {
   console.log(data)
   return (
     <div className="App">
-      <h1>Top 25</h1>
-      {data.restaurants.map((restaurant) => (
-        <Restaurant />
-      ))}
+      <Header />
+      <Main data={data} />
+      <Footer />
     </div>
   )
 }

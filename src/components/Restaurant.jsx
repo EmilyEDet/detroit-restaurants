@@ -5,7 +5,7 @@ const Restaurant = (props) => {
       <img src={props.image} />
       <h1>{props.name}</h1>
       <h3>
-        Chef: {props.chefFirst} {props.chefLast}
+        Chef: {props.chefFirst} {props.banana}
       </h3>
       <h5>
         Cuisine | Food: {props.cuisine} Drinks: {props.drinks}
