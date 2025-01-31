@@ -7,7 +7,10 @@ const Restaurant = (props) => {
       <h3>
         Chef: {props.chefFirst} {props.chefLast}
       </h3>
-      <h5>Cuisine: {props.cuisine}</h5>
+      <h5>
+        Cuisine | Food: {props.cuisine} Drinks: {props.drinks}
+      </h5>
+      <h5>Wallet Impact: {props.costLevel}</h5>
     </div>
   )
 }
