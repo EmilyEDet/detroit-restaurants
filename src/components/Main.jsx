@@ -6,10 +6,14 @@ const Main = (props) => {
       <h1>Top 25</h1>
       {props.data.restaurants.map((restaurant) => (
         <Restaurant
+          img={restaurant.image}
           name={restaurant.name}
           chefFirst={restaurant.chef.first}
-          banana={restaurant.chef.last}
+          chefLast={restaurant.chef.last}
           cuisine={restaurant.cuisine.food}
+          drinks={restaurant.cuisine.drinks}
+          favDish={restaurant.favDish}
+          favDrink={restaurant.favDrink}
         />
       ))}
     </main>
