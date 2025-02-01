@@ -141,6 +141,34 @@
       "funFact": "The restaurant provides reading glasses and a record menu for guests to choose music."
     },
     {
+      "name": "Grey Ghost",
+      "chef": { "first": "John", "last": "Vermiglio" },
+      "cuisine": {
+        "food": "Modern American",
+        "drinks": "Full menu, Cocktail focus"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPfDoi7eRxa8hOfSZoh0VC_lkM28o2MGRuyumnP=s1360-w1360-h1020",
+      "link": {
+        "website": "https://greyghostdetroit.com/",
+        "instagram": "https://www.instagram.com/greyghostdetroit/",
+        "facebook": "https://www.facebook.com/GreyGhostDetroit"
+      },
+      "location": {
+        "street": "47 Watson",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48201,
+        "mapLocation": "https://www.google.com/maps/place/grey+ghost+detroit/data=!4m2!3m1!1s0x8824d29d0c2d4ae5:0x37e08d91fd6ba76f?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Brush Park"
+      },
+      "favDish": "Burger is a go to if seasonal menu isn't working for me",
+      "favDrink": "Hallow Crown",
+      "timesVisited": 3,
+      "funFact": "Grey Ghost is named after a legendary rum runner during the Prohibition Era. Detroit has a long history, given it's close location to Canada."
+    },
+    {
       "name": "Lady of the House",
       "chef": { "first": "Kate", "last": "Williams" },
       "cuisine": {
@@ -167,6 +195,34 @@
       "favDrink": "Kathy With a K",
       "timesVisited": 1,
       "funFact": "Ryan Gosling's face makes an appearance on the seat of a stool that used to be in the ladies bathroom at the old location."
+    },
+    {
+      "name": "Le Suprême",
+      "chef": { "first": "Vincent", "last": "Strolis" },
+      "cuisine": {
+        "food": "French brasserie",
+        "drinks": "Full menu"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOWB7PgAH0DzIub9rY5QA96dq-0CsOFz8ICaJqD=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.lesupremedetroit.com/",
+        "instagram": "https://www.instagram.com/lesupremedetroit/?hl=en",
+        "facebook": "null"
+      },
+      "location": {
+        "street": "1245 Griswold St.",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48226,
+        "mapLocation": "https://www.google.com/maps/place/Le+Supr%C3%AAme/@42.3335392,-83.0513693,16z/data=!3m1!4b1!4m6!3m5!1s0x883b2def82b7ebbb:0x92423bb702a33bd7!8m2!3d42.3335392!4d-83.0513693!16s%2Fg%2F11svfxcyx9?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+        "neighborhood": "Downtown"
+      },
+      "favDish": "Filet mignon au proivre",
+      "favDrink": "Red wine",
+      "timesVisited": 7,
+      "funFact": "They did such a great job on the interior of this restaurant. It's located in the Book Tower, which stood as a symbol of Detroit's decline until they restored it and turned the lights on in the tower a few years ago."
     },
     {
       "name": "Leila",
@@ -279,6 +335,34 @@
       "favDrink": "Coffee",
       "timesVisited": 1,
       "funFact": "The identity of Norm is a secret."
+    },
+    {
+      "name": "Rocco's",
+      "chef": { "first": "Kyle", "last": "Mrkva" },
+      "cuisine": {
+        "food": "Italian deli, Sandwich spot",
+        "drinks": "Wine"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://cdn.vox-cdn.com/thumbor/tfNUKG6AgkNmSKoysqNLDASTnsM=/0x0:2048x1406/1920x0/filters:focal(0x0:2048x1406):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11530031/Roccos_101.jpg",
+      "link": {
+        "website": "https://www.roccosdetroit.com/",
+        "instagram": "https://www.instagram.com/roccosdetroit/",
+        "facebook": "https://www.facebook.com/roccosdetroit/"
+      },
+      "location": {
+        "street": "3627 Cass Ave",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48201,
+        "mapLocation": "https://www.google.com/maps/place/roccos+deli/data=!4m2!3m1!1s0x8824d2b698b75847:0xfd8de964409d8a53?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Midtown"
+      },
+      "favDish": "Meatball sub",
+      "favDrink": "Vernors",
+      "timesVisited": 9,
+      "funFact": "They carry a bunch of Italian specialty items too in their market area."
     },
     {
       "name": "Selden Standard",
