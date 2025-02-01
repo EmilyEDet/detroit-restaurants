@@ -169,6 +169,34 @@
       "funFact": "Ryan Gosling's face makes an appearance on the seat of a stool that used to be in the ladies bathroom at the old location."
     },
     {
+      "name": "Leila",
+      "chef": { "first": "Kirk", "last": "Whittemore" },
+      "cuisine": {
+        "food": "Lebanese",
+        "drinks": "Full menu"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://www.freep.com/gcdn/presto/2020/02/07/PDTF/ab2198e2-6c73-408a-84a4-0c35092fb9ad-_Z5A2865-2.JPG?width=1320&height=880&format=pjpg&auto=webp",
+      "link": {
+        "website": "https://www.leiladetroit.com/",
+        "instagram": "https://www.instagram.com/leiladetroit/",
+        "facebook": "https://www.facebook.com/leiladetroit/"
+      },
+      "location": {
+        "street": "1245 Griswold St.",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48226,
+        "mapLocation": "https://www.google.com/maps/place/leila+detroit/data=!4m2!3m1!1s0x883b2d620eec341b:0xb202fb6deeb52c3b?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Capital Park"
+      },
+      "favDish": "Batata Harra",
+      "favDrink": "Lebanita",
+      "timesVisited": 5,
+      "funFact": "I used to live in this neighborhood before the restaurant moved in. I can't tell if it's a blessing or a bummer that the timing didn't work out."
+    },
+    {
       "name": "Mabel Gray",
       "chef": { "first": "James", "last": "Rigato" },
       "cuisine": {
@@ -197,6 +225,34 @@
       "funFact": "Chef loves dogs and Patrick Swayze."
     },
     {
+      "name": "Michigan & Trumbull",
+      "chef": { "first": "Nathan", "last": "Peck" },
+      "cuisine": {
+        "food": "Detroit Style Pizza",
+        "drinks": "Beer & Wine"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMnu6nASsMfjkoZrwZYG5iznpb63jvFncdEeTxc=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.michigantrumbullpizza.com/",
+        "instagram": "https://www.instagram.com/michiganandtrumbullpizza/",
+        "facebook": "https://www.facebook.com/MichiganandTrumbullPizza/"
+      },
+      "location": {
+        "street": "1331 Holden St.",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48202,
+        "mapLocation": "https://www.google.com/maps/place/michigan+and+trumbull/data=!4m2!3m1!1s0x883b2deb78519511:0xd04d25f260034fc2?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "NW Goldberg"
+      },
+      "favDish": "Arugula salad and monthly speciality pizza",
+      "favDrink": "Coke",
+      "timesVisited": 30,
+      "funFact": "The owner knows me by name and greets me whenever I come in, even though I've never officially met her."
+    },
+    {
       "name": "Norm's Diner",
       "chef": { "first": "Elise", "last": "Gallant" },
       "cuisine": {
@@ -220,7 +276,7 @@
         "neighborhood": "West Village"
       },
       "favDish": "Breakfast potatoes",
-      "favDrink": "coffee",
+      "favDrink": "Coffee",
       "timesVisited": 1,
       "funFact": "The identity of Norm is a secret."
     },

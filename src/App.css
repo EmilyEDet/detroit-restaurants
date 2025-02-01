@@ -10,16 +10,17 @@ body {
 nav {
   display: flex;
   flex-direction: row;
-  height: 75px;
-  background-color: purple;
-  justify-content: space-around;
-  align-items: start;
+  height: 60px;
+  background-color: black;
+  justify-content: space-between;
+  align-items: center;
 }
 
 nav div {
   font-size: 25px;
-  margin: 40px;
+  margin: 20px;
   color: beige;
+  justify-content: center;
 }
 
 section {
@@ -32,9 +33,19 @@ main class {
   font-size: 12px;
 }
 
+img {
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
 footer {
-  background-color: purple;
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+  background-color: black;
   color: beige;
+  justify-content: space-between;
 }
 
 .flex-ctr {
@@ -51,6 +62,12 @@ footer {
 .rule-text {
   display: flex;
   flex-direction: row;
+}
+
+.footer-text {
+  text-align: center;
+  font-size: 18px;
+  color: beige;
 }
 
 .rule-text h3 {
