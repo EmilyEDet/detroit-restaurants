@@ -5,7 +5,8 @@ main {
   grid-column: span 3;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 10px;
+  column-gap: 20px;
+  row-gap: 10px;
   align-items: center;
   padding-bottom: 15px;
 }
@@ -13,17 +14,19 @@ main {
 nav {
   display: flex;
   flex-direction: row;
-  height: 60px;
+  height: 100px;
   background-color: black;
   justify-content: space-between;
   align-items: center;
 }
 
 nav div {
-  font-size: 25px;
   margin: 20px;
   color: beige;
   justify-content: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-display: Georgia;
+  font-size: 32px;
 }
 
 section {
@@ -53,27 +56,17 @@ footer {
   justify-content: space-between;
 }
 
+.footer-text {
+  text-align: center;
+  font-size: 18px;
+  color: beige;
+}
+
 .flex-ctr {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-}
-
-.main-text {
-  display: flex;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-.rule-text {
-  display: flex;
-  flex-direction: row;
-}
-
-.footer-text {
-  text-align: center;
-  font-size: 18px;
-  color: beige;
 }
 
 h1 {
@@ -91,7 +84,6 @@ h3 {
   font-weight: normal;
   text-align: left;
   font-size: 18px;
-  color: red;
 }
 
 h4 {
@@ -100,26 +92,6 @@ h4 {
   font-weight: normal;
   text-align: left;
   font-size: 16px;
-  color: blue;
-}
-
-/* unvisited link */
-a:link {
-  color: red;
-}
-
-/* visited link */
-a:visited {
-  color: green;
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-a :hover {
-  color: beige;
 }
 
 nav,
