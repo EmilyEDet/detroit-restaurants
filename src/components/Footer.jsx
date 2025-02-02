@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer class="flex-ctr">
       <div class="footer-text">
-        <p>FOOTER GOES HERE</p>
+        <p>© 2025 EEMedia, LLC. All Rights Reserved</p>
       </div>
     </footer>
   )
