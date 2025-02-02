@@ -113,6 +113,34 @@
       "funFact": "The owners fled Burundi a decade ago and are an inspiration to other refugees in the city."
     },
     {
+      "name": "Brooklyn St. Local",
+      "chef": { "first": "Deveri", "last": "Gifford" },
+      "cuisine": {
+        "food": "Canadian brunch",
+        "drinks": "Coffee"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMf9qo4oANnP3uj7OkTQ5DElgHscENuKfK_hUeo=s1360-w1360-h1020",
+      "link": {
+        "website": "https://brooklynstreetlocal.com/",
+        "instagram": "http://instagram.com/brooklynstreetlocal/",
+        "facebook": "https://www.facebook.com/BrooklynStreetLocal/"
+      },
+      "location": {
+        "street": "1266 Michigan Ave.",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48226,
+        "mapLocation": "https://www.google.com/maps/place/brooklyn+street+local+detroit/data=!4m2!3m1!1s0x883b2d4f5744dd45:0x25b9b97c175096fa?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Corktown"
+      },
+      "favDish": "Omelette special",
+      "favDrink": "Coffee",
+      "timesVisited": 7,
+      "funFact": "The only place to get decent poutine in town."
+    },
+    {
       "name": "Cannelle",
       "chef": { "first": "Matt", "last": "Knio" },
       "cuisine": {
@@ -167,6 +195,62 @@
       "favDrink": "Wine pairing",
       "timesVisited": 3,
       "funFact": "The restaurant provides reading glasses and a record menu for guests to choose music."
+    },
+    {
+      "name": "Giovanni's Ristorante",
+      "chef": { "first": "Randy", "last": "Truant" },
+      "cuisine": {
+        "food": "Italian",
+        "drinks": "Wine focused"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMPMVweT-LArvI9Z2Yn5ymw7J8G40UeOZh0qf-S=s1360-w1360-h1020",
+      "link": {
+        "website": "https://giovannisristorante.com/",
+        "instagram": "https://www.instagram.com/giovannisdetroit/",
+        "facebook": "https://www.facebook.com/giovannisdetroit/"
+      },
+      "location": {
+        "street": "330 Oakwood",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48217,
+        "mapLocation": "https://www.google.com/maps/place/giovanni's+detroit+michigan/data=!4m2!3m1!1s0x883b3395aae4244b:0xe258e5115285ada1?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Oakwood Heights"
+      },
+      "favDish": "Bistecca al Calamari Fritti",
+      "favDrink": "Italian red wine",
+      "timesVisited": 5,
+      "funFact": "There's a framed diagram near the front door that lists tables where famous guests have sat in the restaurant, including Sinatra (supposedly)."
+    },
+    {
+      "name": "Green Dot Stables",
+      "chef": { "first": "Randy", "last": "Truant" },
+      "cuisine": {
+        "food": "Sliders",
+        "drinks": "Beer focused"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNkGiTjKKADv5M6xv27aB5nsh-lBvQZYv1GAxzd=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.greendotstables.com/",
+        "instagram": "https://www.instagram.com/greendotstables/",
+        "facebook": "https://www.facebook.com/greendotstablesdetroit/"
+      },
+      "location": {
+        "street": "2200 Lafayette Blvd.",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48216,
+        "mapLocation": "https://www.google.com/maps/place/giovanni's+detroit+michigan/data=!4m2!3m1!1s0x883b3395aae4244b:0xe258e5115285ada1?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Hubbard Richard"
+      },
+      "favDish": "Chicken Paprikas soup",
+      "favDrink": "Light beer",
+      "timesVisited": 3,
+      "funFact": "The restaurant has a horse on the roof."
     },
     {
       "name": "Grey Ghost",
@@ -534,7 +618,3 @@
     }
   ]
 }
-
-
-warda
-
