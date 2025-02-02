@@ -96,7 +96,7 @@
       "image": "https://lh3.googleusercontent.com/p/AF1QipOj6NuvieUU4mSgfzuQAGX-Xl0vSZoUJE_f26DK=s1360-w1360-h1020",
       "link": {
         "website": "https://baobabfare.com/",
-        "instagram": "https://www.instagram.com/baobabfare",
+        "instagram": "https://www.instagram.com/baobabfare/",
         "facebook": "https://www.facebook.com/baobabfare/"
       },
       "location": {
@@ -113,8 +113,36 @@
       "funFact": "The owners fled Burundi a decade ago and are an inspiration to other refugees in the city."
     },
     {
+      "name": "Cannelle",
+      "chef": { "first": "Matt", "last": "Knio" },
+      "cuisine": {
+        "food": "Pastry shop",
+        "drinks": "Coffee"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPaRRkDlikDwj2w5hWLQ0s_MCRjEwqN5jG6VVCL=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.cannelledetroit.com//",
+        "instagram": "https://www.instagram.com/mkcannelle_/",
+        "facebook": "https://www.facebook.com/MKCannelle/"
+      },
+      "location": {
+        "street": "45 W Grand River Ave",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48226,
+        "mapLocation": "https://www.google.com/maps/place/Cannelle+by+Matt+Knio/data=!4m2!3m1!1s0x0:0x334ee6e64724440e?sa=X&ved=1t:2428&ictx=111",
+        "neighborhood": "Capital Park"
+      },
+      "favDish": "Almond croissant",
+      "favDrink": "Iced coffee",
+      "timesVisited": 17,
+      "funFact": "I buy giant bags of coffee beans from here. But strongly dislike the same coffee they serve in the bakery."
+    },
+    {
       "name": "Freya",
-      "chef": { "first": "Hamissi", "last": "Mamba" },
+      "chef": { "first": "Doug", "last": "Hewitt" },
       "cuisine": {
         "food": "Coursed Farm-to-Table",
         "drinks": "Full menu, Rotates regularly"
@@ -419,6 +447,94 @@
       "favDrink": "Espresso martini",
       "timesVisited": 7,
       "funFact": "Dog friendly patio."
+    },
+    {
+      "name": "Supino Pizzeria",
+      "chef": { "first": "Dave", "last": "Mancini" },
+      "cuisine": {
+        "food": "Pizza",
+        "drinks": "Wine and Beer"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://images.squarespace-cdn.com/content/v1/5a538647e45a7c0deb549819/1524759694286-LWU3MMN05E1MVP2PGVNG/1E2A9221-2+%281%29.jpg?format=2500w",
+      "link": {
+        "website": "https://www.supinopizzeria.com/",
+        "instagram": "https://www.instagram.com/supinopizzeria/",
+        "facebook": "https://www.facebook.com/SupinoPizzeria/"
+      },
+      "location": {
+        "street": "2457 Russell St",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48207,
+        "mapLocation": "https://www.google.com/maps/place/Supino+Pizzeria+Eastern+Market/@42.345395,-83.0401313,17z/data=!3m1!4b1!4m6!3m5!1s0x8824d2d69780afc5:0x3c45d8c2be7ca1fc!8m2!3d42.345395!4d-83.0401313!16s%2Fg%2F1hc10l949?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+        "neighborhood": "Eastern Market"
+      },
+      "favDish": "El Greco",
+      "favDrink": "Red wine",
+      "timesVisited": 4,
+      "funFact": "The Eastern Market location unfortunately had a fire and was closed for a year. It has thankfully reopened."
+    },
+    {
+      "name": "Warda Pâtisserie",
+      "chef": { "first": "Warda", "last": "Bouguettaya" },
+      "cuisine": {
+        "food": "Bakery",
+        "drinks": "Coffee"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 1, "wins": 0, "losses": 1 },
+      "image": "https://0ec0c1a369ab2b9f59de.cdn6.editmysite.com/uploads/b/0ec0c1a369ab2b9f59deda58dc2938e9caedf51833064107804869e7fd13476d/IMG_6071_1649391784.JPG?width=2400&optimize=medium&height=480&fit=cover&dpr=2",
+      "link": {
+        "website": "https://warda-patisserie-midtown.square.site/home/",
+        "instagram": "https://www.instagram.com/warda.patisserie/",
+        "facebook": "https://www.facebook.com/warda.patisserie/"
+      },
+      "location": {
+        "street": "70 W Alexandrine St",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48201,
+        "mapLocation": "https://www.google.com/maps/place/warda+patisserie/data=!4m2!3m1!1s0x8824d327e8dff1e3:0xcd62642d083fb552?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Midtown"
+      },
+      "favDish": "Quiche special",
+      "favDrink": "Flat White",
+      "timesVisited": 6,
+      "funFact": "Warda won a James Beard Award in 2022 and are some of the nicest people around."
+    },
+    {
+      "name": "Wright & Company",
+      "chef": { "first": "Kyle", "last": "Schutte" },
+      "cuisine": {
+        "food": "Seasonal American",
+        "drinks": "Cocktail forward"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 1, "wins": 0, "losses": 1 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNPRNL1iQzlLOb7FEEZUBKZbwjfkv497gBdoov7=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.wrightdetroit.com/",
+        "instagram": "http://instagram.com/wrightdetroit/",
+        "facebook": "http://facebook.com/wrightdetroit/"
+      },
+      "location": {
+        "street": "1500 Woodward Ave, Floor 2",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48226,
+        "mapLocation": "https://www.google.com/maps/place/wright+and+company+detroit/data=!4m2!3m1!1s0x883b2d31845728c3:0x6099ccd5cbf33868?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Downtown"
+      },
+      "favDish": "House made potato chips",
+      "favDrink": "Ten Toes Down",
+      "timesVisited": 7,
+      "funFact": "The giant painting behind the bar was commissioned by the owner and contributes to one of my favorite vibes in the city."
     }
   ]
 }
+
+
+warda
+
