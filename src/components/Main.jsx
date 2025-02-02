@@ -3,7 +3,7 @@ import Restaurant from './Restaurant'
 const Main = (props) => {
   return (
     <main>
-      <h1>Top 25</h1>
+      {/* <h1>Top 25</h1> */}
       {props.data.restaurants.map((restaurant) => (
         <Restaurant
           img={restaurant.image}

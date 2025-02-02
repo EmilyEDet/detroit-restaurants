@@ -7,14 +7,21 @@ const Restaurant = (props) => {
         <h1>{props.name}</h1>
       </a>
       <h3>
-        Chef: {props.chefFirst} {props.chefLast}
+        <strong>Chef:</strong> {props.chefFirst} {props.chefLast}
       </h3>
       <h4>
-        Cuisine: {props.cuisine} | Drink menu: {props.drinks}
+        <strong>Cuisine:</strong> {props.cuisine} <strong>| Drink menu:</strong>{' '}
+        {props.drinks}
       </h4>
-      <h4>What I always order: {props.favDish}</h4>
-      <h4>And to wash it down: {props.favDrink}</h4>
-      <h4>Random fact: {props.funFact}</h4>
+      <h4>
+        <strong>What I always order:</strong> {props.favDish}
+      </h4>
+      <h4>
+        <strong>And to wash it down:</strong> {props.favDrink}
+      </h4>
+      <h4>
+        <strong>Random fact:</strong> {props.funFact}
+      </h4>
     </div>
   )
 }
