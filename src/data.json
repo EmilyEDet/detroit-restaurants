@@ -141,6 +141,34 @@
       "funFact": "The only place to get decent poutine in town."
     },
     {
+      "name": "Bodega Market",
+      "chef": { "first": "Gino", "last": "Roncelli" },
+      "cuisine": {
+        "food": "Sandwiches and market",
+        "drinks": "Cocktails and coffee"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNE__Gj19kMKzR8aB7bclw75qLGVX0xR4V0XbvP=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.bodegamkt.com/",
+        "instagram": "https://www.instagram.com/bodega_mkt/",
+        "facebook": "https://www.facebook.com/BodegaMKTBrushPark/"
+      },
+      "location": {
+        "street": "2671 Brush St.",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48201,
+        "mapLocation": "https://www.google.com/maps/place/bodega+market+detroit/data=!4m2!3m1!1s0x8824d323ff97003f:0x992c6e8b944d3e78?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Brush Park"
+      },
+      "favDish": "Sausage, Egg and Cheese",
+      "favDrink": "Espresso martini",
+      "timesVisited": 20,
+      "funFact": "Offers to-go cocktails and is the only spot in the state of Michigan that is licensed as both a bar and a bottle shop."
+    },
+    {
       "name": "Cannelle",
       "chef": { "first": "Matt", "last": "Knio" },
       "cuisine": {
@@ -421,6 +449,34 @@
       "funFact": "The owner knows me by name and greets me whenever I come in, even though I've never officially met her."
     },
     {
+      "name": "Milk & Froth",
+      "chef": { "first": "Alexis", "last": "Matteson" },
+      "cuisine": {
+        "food": "Ice cream",
+        "drinks": "null"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNEneS4Byjx3W4KoVPsoGyNjG4gRHsOiBWbCKbn=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.milkandfroth.com/",
+        "instagram": "https://www.instagram.com/milkandfrothicecream/?hl=en",
+        "facebook": "https://www.facebook.com/MilkandFrothIceCream/"
+      },
+      "location": {
+        "street": "535 Griswold St.",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48226,
+        "mapLocation": "https://www.google.com/maps/place/Milk+%26+Froth+Ice+Cream/data=!4m2!3m1!1s0x0:0xf8654bc5533c243f?sa=X&ved=1t:2428&ictx=111",
+        "neighborhood": "Downtown"
+      },
+      "favDish": "Honeycomb and Roasted Strawberry, not together + homemade waffle cone to share with Milton.",
+      "favDrink": "null",
+      "timesVisited": 12,
+      "funFact": "My dog, Milton, remembers this storefront (even months later) and stops outside the door, even if they're not open."
+    },
+    {
       "name": "Norm's Diner",
       "chef": { "first": "Elise", "last": "Gallant" },
       "cuisine": {
@@ -478,7 +534,7 @@
     },
     {
       "name": "Selden Standard",
-      "chef": { "first": "Elise", "last": "Gallant" },
+      "chef": { "first": "Andy", "last": "Hollyday" },
       "cuisine": {
         "food": "Farm-to-Table",
         "drinks": "Full menu, Rotates regularly"
@@ -503,6 +559,34 @@
       "favDrink": "Buddy System",
       "timesVisited": 8,
       "funFact": "I had my 40th birthday dinner in the back garden."
+    },
+    {
+      "name": "Sister Pie",
+      "chef": { "first": "Lisa", "last": "Ludwinski" },
+      "cuisine": {
+        "food": "Pie and other bakery items",
+        "drinks": "Coffee"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 3, "wins": 0, "losses": 3 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipO7C8JtDB_VVs3myC3kBVZeXRXTwPm13K4biRJT=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.sisterpie.com/",
+        "instagram": "https://www.instagram.com/sisterpiedetroit/",
+        "facebook": "https://www.facebook.com/SisterPie//"
+      },
+      "location": {
+        "street": "8066 Kercheval Ave.",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48214,
+        "mapLocation": "https://www.google.com/maps/place/sister+pie/data=!4m2!3m1!1s0x8824d3672d48c3b9:0xb63b76d33ac68952?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "West Village"
+      },
+      "favDish": "Buckwheat Chocolate Chip Cookies",
+      "favDrink": "Coffee",
+      "timesVisited": 14,
+      "funFact": "I took a pie-making class with my mom 3 years ago here. Was great, but I will never be able to recreate the pie."
     },
     {
       "name": "Supergeil",
