@@ -1,6 +1,9 @@
-main {
+body {
   margin: 0;
   box-sizing: border-box;
+}
+
+main {
   background-color: rgb(149, 170, 155);
   grid-column: span 3;
   display: grid;
