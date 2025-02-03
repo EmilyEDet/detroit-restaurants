@@ -14,10 +14,11 @@ main {
 nav {
   display: flex;
   flex-direction: row;
-  height: 100px;
+  height: 60px;
   background-color: black;
   justify-content: space-between;
   align-items: center;
+  text-decoration: none;
 }
 
 nav div {
@@ -29,6 +30,19 @@ nav div {
   font-size: 32px;
 }
 
+nav a {
+  text-decoration: none;
+  color: beige;
+}
+
+nav a:hover {
+  color: rgb(149, 170, 155);
+}
+
+nav h2 {
+  font-size: 16px;
+}
+
 section {
   display: flex;
 }
@@ -37,6 +51,15 @@ main class {
   background-color: white;
   color: black;
   font-size: 12px;
+}
+
+main a {
+  text-decoration: none;
+  color: black;
+}
+
+main a:hover {
+  color: beige;
 }
 
 img {
@@ -76,6 +99,16 @@ h1 {
   text-align: left;
   font-size: 24px;
   color: black;
+}
+
+h2 {
+  margin: 20px;
+  color: beige;
+  justify-content: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-display: Georgia;
+  font-weight: normal;
+  font-size: 28px;
 }
 
 h3 {

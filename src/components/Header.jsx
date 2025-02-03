@@ -1,10 +1,14 @@
 const Header = () => {
   return (
     <nav>
-      <div>Detroit Restaurants</div>
+      <div>Restaurants in Detroit</div>
       <section>
-        <div>Test TK</div>
-        <div>Test TK</div>
+        <h2>
+          <a href="https://en.wikipedia.org/wiki/Detroit">About the city</a>
+        </h2>
+        <h2>
+          <a href="https://en.wikipedia.org/wiki/Detroit">About the city</a>
+        </h2>
       </section>
     </nav>
   )
