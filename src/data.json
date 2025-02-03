@@ -309,6 +309,34 @@
       "funFact": "Grey Ghost is named after a legendary rum runner during the Prohibition Era. Detroit has a long history, given it's close location to Canada."
     },
     {
+      "name": "James Oliver",
+      "chef": { "first": "Miranda", "last": "Oliver" },
+      "cuisine": {
+        "food": "Bagels",
+        "drinks": "Coffee"
+      },
+      "costLevel": "$",
+      "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPlo_5O8kRh6A9AZaRgqIgEob9jkMwXn6Dkg9OJ=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.jamesolivercoffee.com/cafe/",
+        "instagram": "https://www.instagram.com/jamesolivercoffee/",
+        "facebook": "https://www.facebook.com/jamesolivercoffee/"
+      },
+      "location": {
+        "street": "1236 Michigan Ave",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48226,
+        "mapLocation": "https://www.google.com/maps/place/james+oliver+coffee+corktown/data=!4m2!3m1!1s0x883b2d73b5cb15cf:0xda2e4c56a6019c50?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Corktown"
+      },
+      "favDish": "Avocado egg and cheese",
+      "favDrink": "Cold brew with chocolate milk",
+      "timesVisited": 9,
+      "funFact": "James Oliver took over the old Detroit Institute of Bagels spot. Was devastated until I heard that the bakers from DIB were sticking around to make bagels still."
+    },
+    {
       "name": "Lady of the House",
       "chef": { "first": "Kate", "last": "Williams" },
       "cuisine": {
@@ -541,7 +569,7 @@
       },
       "costLevel": "$$",
       "jamesBeard": { "nominations": 9, "wins": 0, "losses": 9 },
-      "image": "https://lh3.googleusercontent.com/p/AF1QipOC-ABrnIsAZvZ2dUNsO1J66YFGiJOp9Xb9NUQX=s1360-w1360-h1020",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipN7zh9NfQ7VotqZnp5wx-tFyzaCu5e151ET4FN3=s1360-w1360-h1020",
       "link": {
         "website": "https://www.seldenstandard.com/",
         "instagram": "https://www.instagram.com/seldenstandard/",
@@ -643,6 +671,34 @@
       "favDrink": "Red wine",
       "timesVisited": 4,
       "funFact": "The Eastern Market location unfortunately had a fire and was closed for a year. It has thankfully reopened."
+    },
+    {
+      "name": "Takoi",
+      "chef": { "first": "Brad", "last": "Greenhill" },
+      "cuisine": {
+        "food": "Thai",
+        "drinks": "Full menu, Cocktail focus"
+      },
+      "costLevel": "$$",
+      "jamesBeard": { "nominations": 1, "wins": 0, "losses": 1 },
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPHcj0tcdTd-TfB68AWzxRHW23uaV0CRQITSM03=s1360-w1360-h1020",
+      "link": {
+        "website": "https://www.takoidetroit.com/",
+        "instagram": "https://www.instagram.com/_takoi_/",
+        "facebook": "https://www.facebook.com/takoidetroit/"
+      },
+      "location": {
+        "street": "2520 Michigan Ave.",
+        "city": "Detroit",
+        "state": "Michigan",
+        "postcode": 48216,
+        "mapLocation": "https://www.google.com/maps/place/takoi+detroit/data=!4m2!3m1!1s0x883b32a78d9a07d9:0xb8f2804947ed7547?sa=X&ved=1t:242&ictx=111",
+        "neighborhood": "Corktown"
+      },
+      "favDish": "Crispy spare ribs and Coconut milk ice cream",
+      "favDrink": "Promises in Vortex",
+      "timesVisited": 8,
+      "funFact": "Takoi originally opened under the name Katoi, until the owners realized that Katoi was a derogatory word and quickly moved to change it. Sadly, they were the victim of suspected arson and reopened a year later."
     },
     {
       "name": "Warda Pâtisserie",
