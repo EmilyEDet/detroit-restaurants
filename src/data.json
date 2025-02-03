@@ -37,7 +37,7 @@
       },
       "costLevel": "$$",
       "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
-      "image": "https://images.squarespace-cdn.com/content/v1/65cfbb3c98696e51f9e8bc30/a5d480d2-3db2-4187-816e-c5edf95a4d27/IMG_7889.jpg?format=2500w",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipN0BnjxBICpt-JIVaoGb-p-SEx1I9jSOshDcOKV=s1360-w1360-h1020",
       "link": {
         "website": "https://www.barpigalle.com/",
         "instagram": "http://instagram.com/barpigalle",
@@ -58,9 +58,9 @@
     },
     {
       "name": "Babo",
-      "chef": { "first": null, "last": null },
+      "chef": { "first": "Kris", "last": "Lelcaj" },
       "cuisine": {
-        "food": "Farm-to-Table",
+        "food": "Farm-to-Table brunch",
         "drinks": "Full menu"
       },
       "costLevel": "$$",
@@ -82,7 +82,7 @@
       "favDish": "Harvest bowl",
       "favDrink": "Espresso martini",
       "timesVisited": 5,
-      "funFact": "'Babo' is slang for 'dad' in Albanian"
+      "funFact": "'Babo' is slang for 'dad' in Albanian."
     },
     {
       "name": "Baobab Fare",
@@ -205,7 +205,7 @@
       },
       "costLevel": "$$$",
       "jamesBeard": { "nominations": 2, "wins": 0, "losses": 2 },
-      "image": "https://lh3.googleusercontent.com/p/AF1QipMOOt0q83itGKeUPtmNYXjwMQFtDSwB_4NJ-uWW=s1360-w1360-h1020",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOgMCyghf9kGKNsXHB122ZXjt8WfjUF32HK0-RY=s1360-w1360-h1020",
       "link": {
         "website": "https://www.freyadetroit.com/",
         "instagram": "https://www.instagram.com/freyadetroit/",
@@ -401,7 +401,7 @@
       },
       "costLevel": "$$$",
       "jamesBeard": { "nominations": 4, "wins": 0, "losses": 4 },
-      "image": "https://lh3.googleusercontent.com/p/AF1QipOU8-RfXapPTjA1VpyJBeBW0qOdYDPddnpPfhuI=s1360-w1360-h1020",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOFGvgITVNKVnBPvfUSL8sqcmSoRyLn5REb_IWk=s1360-w1360-h1020",
       "link": {
         "website": "https://www.mabelgraykitchen.com/",
         "instagram": "https://www.instagram.com/mabelgraykitchen/",
@@ -597,7 +597,7 @@
       },
       "costLevel": "$$",
       "jamesBeard": { "nominations": 0, "wins": 0, "losses": 0 },
-      "image": "https://lh3.googleusercontent.com/p/AF1QipN361tz5toYNk-GWrFAnFm0nlBS_QplBBzxKHxp=s1360-w1360-h1020",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMGr1U0hoD_1NkiIHnmfyfvDY2B6VsE1awf7_35=s1360-w1360-h1020",
       "link": {
         "website": "https://supergeildetroit.com/",
         "instagram": "https://www.instagram.com/supergeildetroit/",

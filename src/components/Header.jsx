@@ -7,7 +7,7 @@ const Header = () => {
           <a href="https://en.wikipedia.org/wiki/Detroit">About the city</a>
         </h2>
         <h2>
-          <a href="https://en.wikipedia.org/wiki/Detroit">About the city</a>
+          <a href="mailto:eengelmanbb@gmail.com">Contact</a>
         </h2>
       </section>
     </nav>
